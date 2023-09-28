@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayau8&label=Profile%20views&color=0e75b6&style=flat" alt="ayau8" /> </p>
 
-- 🔭 I’m currently working on **NewsHub**
-
 - 📫 How to reach me **ayaualvin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
