@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alvin Ken Yau</h1>
 <h3 align="center">A passionate full-stack developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayau8&label=Profile%20views&color=0e75b6&style=flat" alt="ayau8" /> </p>
+ 
 
 - 🔭 I’m currently working on **NewsHub**
 
