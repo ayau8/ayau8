@@ -34,6 +34,3 @@
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
-
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayau8&theme=vue" /></span>
-
