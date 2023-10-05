@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=black" alt="ayau8" />
+  <img src="https://img.shields.io/badge/Linkedin-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=blue" alt="ayau8" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
